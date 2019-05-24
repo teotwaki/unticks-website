@@ -1,12 +1,12 @@
-- counter: 20000
-  icon: ion-ios-chatboxes-outline
-  text: Cups of Coffee
-- counter: 1500
-  icon: ion-ios-glasses-outline
-  text: Gallons of Soft Drink
-- counter: 1200
-  icon: ion-ios-compose-outline
-  text: Whiteboard Markers
-- counter: 300
+- counter: 11
   icon: ion-ios-timer-outline
-  text: Websites built
+  text: Years of experience
+- counter: 6
+  icon: ion-earth
+  text: Lived-in countries
+- counter: 8
+  icon: ion-code-working
+  text: Programming languages
+- counter: 3.5
+  icon: ion-code-working
+  text: Human languages

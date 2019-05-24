@@ -1,16 +1,9 @@
-- name: Rose Ray
-  title: CEO-Themefisher
-  testimonial: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray sr.
-  title: CEO-Themefisher
-  testimonial: "An e-commerce site was created by this company with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray jr.
-  title: CEO-Themefisher
-  testimonial: "With the tools to make our business a success, this company created an e-commerce site, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray III
-  title: CEO-Themefisher
-  testimonial: "We feel that our site has unique elements that make us stand out from the crowd. This company created an e-commerce site with the tools to make our business a success, with innovative ideas."
-  image: img/item-img1.jpg
+- name: Boris Mallié
+  title: CEO @ Interact-IV Group
+  testimonial: "Sebastian overhauled the way we build software, and deploy it to our customers, all the while implementing more features than we can count."
+  image: img/testimonials/boris-mallie.jpg
+
+- name: Mads Fosselius
+  title: CEO & co-founder @ Dixa
+  testimonial: "Scaling our platform to accommodate our growing customer base has been a non-issue for Dixa after Sebastian rebuilt our cloud stack from the ground up."
+  image: img/testimonials/mads-fosselius.jpg
