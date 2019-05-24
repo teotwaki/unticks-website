@@ -207,9 +207,11 @@ px      68    160    252    */
     right: 0;
     width: 100%;
     height: 100%;
-    /*background: linear-gradient(to left, #aba6c3, #524e60);*/
-    background-color: #fdffff;
+    background-color: #ffffff;
     opacity: 0.85;
+  }
+  #feature p {
+    color: #5d5f62;
   }
 
   #intro {
